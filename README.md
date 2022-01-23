@@ -44,7 +44,7 @@ __Visualization 2 - Visualize a voluteer's wash frequency:__
 
 __Visualization 3: Visualize the bacteria cultures per sampl__
 
-![](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_NoFilters.PNG)
+![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
 
 
 - The below visualization illustrates the first filter on the date; however, __the filter has NOT been applied.__  The application is listening for a change and once a user hits the tab key the filter will be applied.
