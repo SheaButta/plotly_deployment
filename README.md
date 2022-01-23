@@ -56,24 +56,14 @@ __- Site is Mobile Responsive:__
 ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/MobileResponsive.PNG)
 
 
-
-
-![Filter on date - Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateFilterResults.PNG)
-
-- The below visualization illustrates an __applied filter on date ONLY__; however, another filter is about to be applied on city.  
- 
-![Filter on date and city - One Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_Date_CityFilter.PNG)
-
-- The below visualization illustrates an __applied filter on date and city.__  The results have decreased yet again since applying the filter on date and city.
- 
-![Filter on date and city - Two Filters Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateCityFilterResults.PNG)
-
-
 ## Summary
-Since adding this new design for my client, there may be a drawback of user control.  There are some users who like to control when and how they perform searches which would lead back to the "onClick" event.
+My client is extremely pleased with the final sprint and the release of their updated dashboard.   Probable Beef (PB) has decided to hire me as their "Data Engineer" to assist with their growth and decision making for their business.  As you can see, the final dashboard does include a great constrasting background color and is extremley easy on the eyes.  As you change the subject ID of volunteers, you will notice each visualization changes to represent the correlation based on the volunteer.
 
-Besides this drawback, I would like to recommend the following two (2) improvements;
-1. Using a drop-down list to select a search criteria. Typing search criterias would be reduced.
-2. Look for a different bootstrap class to help align the "input" tag under the "label" tag all the time.  This would improve the visualization and keep these tags from moving around on the website as you change screen sizes.
+![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/DDL_Charts.PNG)
+
+
+
+
+
 
 
