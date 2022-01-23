@@ -21,6 +21,7 @@ The resouces used develope this JavaScript application included;
 - D3 (Data-Driven Documents)
 - Sample.json (JSON data file)
 
+
 ## Results
 All sprints were completed as scheduled and I delivered on all client expectations/results.
 
@@ -46,9 +47,11 @@ __Visualization 3: Visualize the bacteria cultures per sampl__
 
 ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
 
+
 __- Image added to Jumbotron object dashboard:__
 
 ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/Jumbotron_modifiedWithImage.PNG)
+
 
 __- Site is Mobile Responsive:__
 
