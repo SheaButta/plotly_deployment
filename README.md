@@ -2,12 +2,12 @@
 # UFOs
 
 ## Overview 
-The purpose of this project is to assist my client (Probable Beef (PB)) with producing a webstie using JavaScript.  My client has collected data in hopes to determine what species colonize an individual's belly button.  This information will be used to help my client produce a protein that tastes like beef.  My first sprint delivered a site with a dashboard of demographic information of volunteers participating in this data collection.  PB, would like me to visualize the bacterial data for all their volunteers.
+The purpose of this project is to assist my client (Probable Beef (PB)) with producing a webstie using JavaScript.  My client has collected data in hopes to determine what species colonize an individual's belly button.  PB would like to understand the data in hopes of producing a protein that tastes like beef.  My first sprint delivered a site with a dashboard of demographic information of volunteers participating in this data collection.  PB, would like me to visualize the bacterial data for all their volunteers.
 
 My final sprint will include adding three (3) specific visualization which are identified below.  As always, my analysis followed the data analysis principles of (1) Determine the number of rows and columns; (2) Data types used; and (3) Is the data readable?
 
 __Client Expected Results:__
-- Visualize the top 10 bacterial species in an individual's navel using a Horizontal __Bar Chart__
+- Visualize the top 10 bacterial species in an individual's navel using a __Horizontal Bar Chart__
 - Visualize a voluteer's wash frequency using a __Gauge Chart__
 - Visualize the bacteria cultures per sample using a __Bubble Chart__
 
@@ -29,7 +29,7 @@ __Deliverable 1:__ Creation of dasboard related to a volunteers' demographics
 
 ![Demograhic Information](https://github.com/SheaButta/UFOs/blob/main/static/images/UFO_Orig.PNG)
 
-__Deliverable 2:__ Creation of three (3) visualizations charts that reflects the data
+__Deliverable 2:__ Creation of three (3) charts that reflect the data
 
 
 __Visualization 1 - Visualize the top 10 bacterial species in an individual's navel:__
