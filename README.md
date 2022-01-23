@@ -61,6 +61,8 @@ __- Site is Mobile Responsive:__
 ## Summary
 My client is extremely pleased with the final sprint and the release of their updated dashboard.   Probable Beef (PB) has decided to hire me as their "Data Engineer" to assist with their growth and decision making for their business.  As you can see, the final dashboard does include a great constrasting background color and is extremley easy on the eyes.  As you change the subject ID of volunteers, you will notice each visualization changes to represent the correlation based on the volunteer.
 
+__Final Dashboard:__
+
 ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/DDL_Charts.PNG)
 
 
