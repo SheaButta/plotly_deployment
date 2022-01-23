@@ -27,7 +27,7 @@ All sprints were completed as scheduled and I delivered on all client expectatio
 __Deliverable 1:__ Creation of dasboard related to a volunteers' demographics
 - Looking at the below visualization you can see how easy on the eyes this website is.
 
-![Demograhic Information](https://github.com/SheaButta/plotly_deployment/tree/main/static/images/Dashboard.PNG)
+![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/Dashboard.PNG)
 
 
 __Deliverable 2:__ Creation of three (3) charts that reflect the data
