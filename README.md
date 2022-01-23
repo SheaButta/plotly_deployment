@@ -27,7 +27,8 @@ All sprints were completed as scheduled and I delivered on all client expectatio
 __Deliverable 1:__ Creation of dasboard related to a volunteers' demographics
 - Looking at the below visualization you can see how easy on the eyes this website is.
 
-![Demograhic Information](https://github.com/SheaButta/UFOs/blob/main/static/images/UFO_Orig.PNG)
+![Demograhic Information](https://github.com/SheaButta/plotly_deployment/tree/main/static/images/Dashboard.PNG)
+
 
 __Deliverable 2:__ Creation of three (3) charts that reflect the data
 
@@ -46,13 +47,17 @@ __Visualization 3: Visualize the bacteria cultures per sampl__
 
 ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BubbleChart.PNG)
 
+__- Image added to Jumbotron object dashboard:__
 
-- The below visualization illustrates the first filter on the date; however, __the filter has NOT been applied.__  The application is listening for a change and once a user hits the tab key the filter will be applied.
+![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/Jumbotron_modifiedWithImage.PNG)
 
-![Filter on date - NO Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateFilter.PNG)
+__- Site is Mobile Responsive:__
 
-- The below visualization illustrates an applied filter on date.  You can clearly see the amount of data has decreased since applying the date filter.
- 
+![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/MobileResponsive.PNG)
+
+
+
+
 ![Filter on date - Filter Applied](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_DateFilterResults.PNG)
 
 - The below visualization illustrates an __applied filter on date ONLY__; however, another filter is about to be applied on city.  
