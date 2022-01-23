@@ -25,7 +25,6 @@ The resouces used develope this JavaScript application included;
 All sprints were completed as scheduled and I delivered on all client expectations/results.
 
 __Deliverable 1:__ Creation of dasboard related to a volunteers' demographics
-- Looking at the below visualization you can see how easy on the eyes this website is.
 
 ![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/Dashboard.PNG)
 
