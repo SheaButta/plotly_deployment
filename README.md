@@ -39,7 +39,7 @@ __Visualization 1 - Visualize the top 10 bacterial species in an individual's na
 
 __Visualization 2 - Visualize a voluteer's wash frequency:__
 
-![](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_NoFilters.PNG)
+![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/GuageChart.PNG)
 
 
 __Visualization 3: Visualize the bacteria cultures per sampl__
