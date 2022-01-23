@@ -34,7 +34,7 @@ __Deliverable 2:__ Creation of three (3) charts that reflect the data
 
 __Visualization 1 - Visualize the top 10 bacterial species in an individual's navel:__
 
-![](https://github.com/SheaButta/UFOs/blob/main/static/images/ScreenShot_NoFilters.PNG)
+![](https://github.com/SheaButta/plotly_deployment/blob/main/static/images/BarChart.PNG)
 
 
 __Visualization 2 - Visualize a voluteer's wash frequency:__
